@@ -1,18 +1,18 @@
 IBM MobileFirst Platform Foundation
 ===
-###Sample Name
+### Sample Name
 
 
-###Usage
+### Usage
 Follow the instructions in the tutorials listed below.
 
-###Tutorials
+### Tutorials
 
 
-###Supported Levels
+### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
 
-###License
+### License
 Copyright 2015 IBM Corp.
 
 Licensed under the Apache License, Version 2.0 (the "License");
