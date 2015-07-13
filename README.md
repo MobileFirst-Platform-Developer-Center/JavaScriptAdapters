@@ -1,13 +1,17 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
-
+### JavaScript Adapters
+The Adapters sample contains example code demonstrating use of JavaScript (HTTP, SQL) adapters and how to use Java in a JavaScript adapter.
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
+**Adapters Overview**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/server-side-development-category/adapter-framework-overview/
 
+**JavaScript Adapters**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/server-side-development-category/javascript-adapters/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
