@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="JavaScriptAdapters">
         <wb-resource deploy-path="/" source-path="/apps/Adapters/common"/>
-        <wb-resource deploy-path="/" source-path="/adapters/JavaAdapter/src"/>
         <property name="context-root" value="JavaScriptAdapters"/>
     </wb-module>
 </project-modules>

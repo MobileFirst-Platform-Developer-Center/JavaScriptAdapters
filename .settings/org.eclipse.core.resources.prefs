@@ -1,21 +1,22 @@
-#Mon Mar 02 09:19:41 IST 2015
-base.iphone=3449151524
-base.android=961615611
+#Tue Jul 14 11:39:38 IDT 2015
+base.iphone=1877206148
+base.android=2413432195
 Adapters.android.native=534001254
-jsonstore.windowsphone8=98066318
-common.android=3951631686
+jsonstore.windowsphone8=1150365599
+common.android=3998981046
 encoding//adapters/UsingJavaInAdapter/UsingJavaInAdapter-impl.js=UTF-8
-fipshttp.android=3456286054
+fipshttp.android=3517017756
 Adapters.iphone.native=2545518115
-wl_version=7.0.0.00.20150227-0916
+wl_version=7.1.0.00
 eclipse.preferences.version=1
-base.windowsphone8=2414973466
+base.windowsphone8=3823950144
 jsonstore.android=2033967206
 encoding//server/java/com/sample/customcode/Calculator.java=UTF-8
 analytics.ipad=2554529831
-fipshttp.iphone=1503308747
-fipshttp.ipad=1503308747
-base.ipad=3449151524
+fipshttp.iphone=2487189175
+fipshttp.ipad=2487189175
+wl_compatible_version=
+base.ipad=1877206148
 Adapters.ipad.native=2545518115
 analytics.iphone=2554529831
 analytics.android=963009885
